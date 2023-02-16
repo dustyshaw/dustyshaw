@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dustyshaw
-- 👀 I’m interested in Web Design and Development
+- 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently going to school for Software Engineering
 
 <!---
