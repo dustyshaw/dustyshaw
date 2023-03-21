@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dustyshaw
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently going to school for Software Engineering
+- 🌱 I’m currently a sophomore in the Software Engineering program at Snow College
 
 <!---
 dustyshaw/dustyshaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
