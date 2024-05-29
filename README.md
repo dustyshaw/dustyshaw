@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dustyshaw
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently a junior in Software Engineering
+- 🌱 I’m currently a Senior in Software Engineering
 
 See my portfolio at [dustyshaw.github.io](https://dustyshaw.github.io/).
 
